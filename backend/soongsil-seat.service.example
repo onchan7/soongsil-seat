@@ -1,0 +1,17 @@
+# Replace YOUR_USER and paths before installing. Never run as root by default.
+[Unit]
+Description=Soongsil library seat server
+After=network-online.target arduino-router.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=YOUR_USER
+WorkingDirectory=/home/YOUR_USER/soongsil-seat
+ExecStart=/home/YOUR_USER/soongsil-seat/.venv/bin/python /home/YOUR_USER/soongsil-seat/backend/server.py
+Restart=on-failure
+RestartSec=5
+UMask=0077
+
+[Install]
+WantedBy=multi-user.target

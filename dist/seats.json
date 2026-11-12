@@ -1,0 +1,752 @@
+{
+  "source": "Soongsil_Central_Library.rbxlx · version 2",
+  "seats": [
+    {
+      "id": "B1_001",
+      "floor": "B1",
+      "label": "001",
+      "kind": "study",
+      "x": -60.0,
+      "z": -18.5,
+      "model": "StudySeat_B1_001"
+    },
+    {
+      "id": "B1_002",
+      "floor": "B1",
+      "label": "002",
+      "kind": "study",
+      "x": -60.0,
+      "z": -6.5,
+      "model": "StudySeat_B1_002"
+    },
+    {
+      "id": "B1_003",
+      "floor": "B1",
+      "label": "003",
+      "kind": "study",
+      "x": -60.0,
+      "z": 5.5,
+      "model": "StudySeat_B1_003"
+    },
+    {
+      "id": "B1_004",
+      "floor": "B1",
+      "label": "004",
+      "kind": "study",
+      "x": -60.0,
+      "z": 17.5,
+      "model": "StudySeat_B1_004"
+    },
+    {
+      "id": "B1_005",
+      "floor": "B1",
+      "label": "005",
+      "kind": "study",
+      "x": -60.0,
+      "z": 31.5,
+      "model": "StudySeat_B1_005"
+    },
+    {
+      "id": "B1_006",
+      "floor": "B1",
+      "label": "006",
+      "kind": "study",
+      "x": -50.0,
+      "z": -18.5,
+      "model": "StudySeat_B1_006"
+    },
+    {
+      "id": "B1_007",
+      "floor": "B1",
+      "label": "007",
+      "kind": "study",
+      "x": -50.0,
+      "z": -6.5,
+      "model": "StudySeat_B1_007"
+    },
+    {
+      "id": "B1_008",
+      "floor": "B1",
+      "label": "008",
+      "kind": "study",
+      "x": -50.0,
+      "z": 5.5,
+      "model": "StudySeat_B1_008"
+    },
+    {
+      "id": "B1_009",
+      "floor": "B1",
+      "label": "009",
+      "kind": "study",
+      "x": -50.0,
+      "z": 17.5,
+      "model": "StudySeat_B1_009"
+    },
+    {
+      "id": "B1_010",
+      "floor": "B1",
+      "label": "010",
+      "kind": "study",
+      "x": -50.0,
+      "z": 31.5,
+      "model": "StudySeat_B1_010"
+    },
+    {
+      "id": "B1_011",
+      "floor": "B1",
+      "label": "011",
+      "kind": "study",
+      "x": -35.0,
+      "z": -18.5,
+      "model": "StudySeat_B1_011"
+    },
+    {
+      "id": "B1_012",
+      "floor": "B1",
+      "label": "012",
+      "kind": "study",
+      "x": -35.0,
+      "z": -6.5,
+      "model": "StudySeat_B1_012"
+    },
+    {
+      "id": "B1_013",
+      "floor": "B1",
+      "label": "013",
+      "kind": "study",
+      "x": -35.0,
+      "z": 5.5,
+      "model": "StudySeat_B1_013"
+    },
+    {
+      "id": "B1_014",
+      "floor": "B1",
+      "label": "014",
+      "kind": "study",
+      "x": -35.0,
+      "z": 17.5,
+      "model": "StudySeat_B1_014"
+    },
+    {
+      "id": "B1_015",
+      "floor": "B1",
+      "label": "015",
+      "kind": "study",
+      "x": -35.0,
+      "z": 31.5,
+      "model": "StudySeat_B1_015"
+    },
+    {
+      "id": "B1_016",
+      "floor": "B1",
+      "label": "016",
+      "kind": "study",
+      "x": -25.0,
+      "z": -18.5,
+      "model": "StudySeat_B1_016"
+    },
+    {
+      "id": "B1_017",
+      "floor": "B1",
+      "label": "017",
+      "kind": "study",
+      "x": -25.0,
+      "z": -6.5,
+      "model": "StudySeat_B1_017"
+    },
+    {
+      "id": "B1_018",
+      "floor": "B1",
+      "label": "018",
+      "kind": "study",
+      "x": -25.0,
+      "z": 5.5,
+      "model": "StudySeat_B1_018"
+    },
+    {
+      "id": "B1_019",
+      "floor": "B1",
+      "label": "019",
+      "kind": "study",
+      "x": -25.0,
+      "z": 17.5,
+      "model": "StudySeat_B1_019"
+    },
+    {
+      "id": "B1_020",
+      "floor": "B1",
+      "label": "020",
+      "kind": "study",
+      "x": -25.0,
+      "z": 31.5,
+      "model": "StudySeat_B1_020"
+    },
+    {
+      "id": "B1_021",
+      "floor": "B1",
+      "label": "021",
+      "kind": "study",
+      "x": 16.0,
+      "z": -18.5,
+      "model": "StudySeat_B1_021"
+    },
+    {
+      "id": "B1_022",
+      "floor": "B1",
+      "label": "022",
+      "kind": "study",
+      "x": 16.0,
+      "z": -6.5,
+      "model": "StudySeat_B1_022"
+    },
+    {
+      "id": "B1_023",
+      "floor": "B1",
+      "label": "023",
+      "kind": "study",
+      "x": 16.0,
+      "z": 5.5,
+      "model": "StudySeat_B1_023"
+    },
+    {
+      "id": "B1_024",
+      "floor": "B1",
+      "label": "024",
+      "kind": "study",
+      "x": 16.0,
+      "z": 17.5,
+      "model": "StudySeat_B1_024"
+    },
+    {
+      "id": "B1_025",
+      "floor": "B1",
+      "label": "025",
+      "kind": "study",
+      "x": 16.0,
+      "z": 31.5,
+      "model": "StudySeat_B1_025"
+    },
+    {
+      "id": "B1_026",
+      "floor": "B1",
+      "label": "026",
+      "kind": "study",
+      "x": 26.0,
+      "z": -18.5,
+      "model": "StudySeat_B1_026"
+    },
+    {
+      "id": "B1_027",
+      "floor": "B1",
+      "label": "027",
+      "kind": "study",
+      "x": 26.0,
+      "z": -6.5,
+      "model": "StudySeat_B1_027"
+    },
+    {
+      "id": "B1_028",
+      "floor": "B1",
+      "label": "028",
+      "kind": "study",
+      "x": 26.0,
+      "z": 5.5,
+      "model": "StudySeat_B1_028"
+    },
+    {
+      "id": "B1_029",
+      "floor": "B1",
+      "label": "029",
+      "kind": "study",
+      "x": 26.0,
+      "z": 17.5,
+      "model": "StudySeat_B1_029"
+    },
+    {
+      "id": "B1_030",
+      "floor": "B1",
+      "label": "030",
+      "kind": "study",
+      "x": 26.0,
+      "z": 31.5,
+      "model": "StudySeat_B1_030"
+    },
+    {
+      "id": "2F_031",
+      "floor": "2F",
+      "label": "031",
+      "kind": "study",
+      "x": -60.0,
+      "z": -18.5,
+      "model": "StudySeat_2F_031"
+    },
+    {
+      "id": "2F_032",
+      "floor": "2F",
+      "label": "032",
+      "kind": "study",
+      "x": -60.0,
+      "z": -6.5,
+      "model": "StudySeat_2F_032"
+    },
+    {
+      "id": "2F_033",
+      "floor": "2F",
+      "label": "033",
+      "kind": "study",
+      "x": -60.0,
+      "z": 5.5,
+      "model": "StudySeat_2F_033"
+    },
+    {
+      "id": "2F_034",
+      "floor": "2F",
+      "label": "034",
+      "kind": "study",
+      "x": -60.0,
+      "z": 17.5,
+      "model": "StudySeat_2F_034"
+    },
+    {
+      "id": "2F_035",
+      "floor": "2F",
+      "label": "035",
+      "kind": "study",
+      "x": -60.0,
+      "z": 31.5,
+      "model": "StudySeat_2F_035"
+    },
+    {
+      "id": "2F_036",
+      "floor": "2F",
+      "label": "036",
+      "kind": "study",
+      "x": -50.0,
+      "z": -18.5,
+      "model": "StudySeat_2F_036"
+    },
+    {
+      "id": "2F_037",
+      "floor": "2F",
+      "label": "037",
+      "kind": "study",
+      "x": -50.0,
+      "z": -6.5,
+      "model": "StudySeat_2F_037"
+    },
+    {
+      "id": "2F_038",
+      "floor": "2F",
+      "label": "038",
+      "kind": "study",
+      "x": -50.0,
+      "z": 5.5,
+      "model": "StudySeat_2F_038"
+    },
+    {
+      "id": "2F_039",
+      "floor": "2F",
+      "label": "039",
+      "kind": "study",
+      "x": -50.0,
+      "z": 17.5,
+      "model": "StudySeat_2F_039"
+    },
+    {
+      "id": "2F_040",
+      "floor": "2F",
+      "label": "040",
+      "kind": "study",
+      "x": -50.0,
+      "z": 31.5,
+      "model": "StudySeat_2F_040"
+    },
+    {
+      "id": "2F_041",
+      "floor": "2F",
+      "label": "041",
+      "kind": "study",
+      "x": -35.0,
+      "z": -18.5,
+      "model": "StudySeat_2F_041"
+    },
+    {
+      "id": "2F_042",
+      "floor": "2F",
+      "label": "042",
+      "kind": "study",
+      "x": -35.0,
+      "z": -6.5,
+      "model": "StudySeat_2F_042"
+    },
+    {
+      "id": "2F_043",
+      "floor": "2F",
+      "label": "043",
+      "kind": "study",
+      "x": -35.0,
+      "z": 5.5,
+      "model": "StudySeat_2F_043"
+    },
+    {
+      "id": "2F_044",
+      "floor": "2F",
+      "label": "044",
+      "kind": "study",
+      "x": -35.0,
+      "z": 17.5,
+      "model": "StudySeat_2F_044"
+    },
+    {
+      "id": "2F_045",
+      "floor": "2F",
+      "label": "045",
+      "kind": "study",
+      "x": -35.0,
+      "z": 31.5,
+      "model": "StudySeat_2F_045"
+    },
+    {
+      "id": "2F_046",
+      "floor": "2F",
+      "label": "046",
+      "kind": "study",
+      "x": -25.0,
+      "z": -18.5,
+      "model": "StudySeat_2F_046"
+    },
+    {
+      "id": "2F_047",
+      "floor": "2F",
+      "label": "047",
+      "kind": "study",
+      "x": -25.0,
+      "z": -6.5,
+      "model": "StudySeat_2F_047"
+    },
+    {
+      "id": "2F_048",
+      "floor": "2F",
+      "label": "048",
+      "kind": "study",
+      "x": -25.0,
+      "z": 5.5,
+      "model": "StudySeat_2F_048"
+    },
+    {
+      "id": "2F_049",
+      "floor": "2F",
+      "label": "049",
+      "kind": "study",
+      "x": -25.0,
+      "z": 17.5,
+      "model": "StudySeat_2F_049"
+    },
+    {
+      "id": "2F_050",
+      "floor": "2F",
+      "label": "050",
+      "kind": "study",
+      "x": -25.0,
+      "z": 31.5,
+      "model": "StudySeat_2F_050"
+    },
+    {
+      "id": "2F_051",
+      "floor": "2F",
+      "label": "051",
+      "kind": "study",
+      "x": 16.0,
+      "z": -18.5,
+      "model": "StudySeat_2F_051"
+    },
+    {
+      "id": "2F_052",
+      "floor": "2F",
+      "label": "052",
+      "kind": "study",
+      "x": 16.0,
+      "z": -6.5,
+      "model": "StudySeat_2F_052"
+    },
+    {
+      "id": "2F_053",
+      "floor": "2F",
+      "label": "053",
+      "kind": "study",
+      "x": 16.0,
+      "z": 5.5,
+      "model": "StudySeat_2F_053"
+    },
+    {
+      "id": "2F_054",
+      "floor": "2F",
+      "label": "054",
+      "kind": "study",
+      "x": 16.0,
+      "z": 17.5,
+      "model": "StudySeat_2F_054"
+    },
+    {
+      "id": "2F_055",
+      "floor": "2F",
+      "label": "055",
+      "kind": "study",
+      "x": 16.0,
+      "z": 31.5,
+      "model": "StudySeat_2F_055"
+    },
+    {
+      "id": "2F_056",
+      "floor": "2F",
+      "label": "056",
+      "kind": "study",
+      "x": 26.0,
+      "z": -18.5,
+      "model": "StudySeat_2F_056"
+    },
+    {
+      "id": "2F_057",
+      "floor": "2F",
+      "label": "057",
+      "kind": "study",
+      "x": 26.0,
+      "z": -6.5,
+      "model": "StudySeat_2F_057"
+    },
+    {
+      "id": "2F_058",
+      "floor": "2F",
+      "label": "058",
+      "kind": "study",
+      "x": 26.0,
+      "z": 5.5,
+      "model": "StudySeat_2F_058"
+    },
+    {
+      "id": "2F_059",
+      "floor": "2F",
+      "label": "059",
+      "kind": "study",
+      "x": 26.0,
+      "z": 17.5,
+      "model": "StudySeat_2F_059"
+    },
+    {
+      "id": "2F_060",
+      "floor": "2F",
+      "label": "060",
+      "kind": "study",
+      "x": 26.0,
+      "z": 31.5,
+      "model": "StudySeat_2F_060"
+    },
+    {
+      "id": "1F_061",
+      "floor": "1F",
+      "label": "061",
+      "kind": "study",
+      "x": 16.0,
+      "z": -1.5,
+      "model": "StudySeat_1F_061"
+    },
+    {
+      "id": "1F_062",
+      "floor": "1F",
+      "label": "062",
+      "kind": "study",
+      "x": 16.0,
+      "z": 12.5,
+      "model": "StudySeat_1F_062"
+    },
+    {
+      "id": "1F_063",
+      "floor": "1F",
+      "label": "063",
+      "kind": "study",
+      "x": 16.0,
+      "z": 26.5,
+      "model": "StudySeat_1F_063"
+    },
+    {
+      "id": "1F_064",
+      "floor": "1F",
+      "label": "064",
+      "kind": "study",
+      "x": 28.0,
+      "z": -1.5,
+      "model": "StudySeat_1F_064"
+    },
+    {
+      "id": "1F_065",
+      "floor": "1F",
+      "label": "065",
+      "kind": "study",
+      "x": 28.0,
+      "z": 12.5,
+      "model": "StudySeat_1F_065"
+    },
+    {
+      "id": "1F_066",
+      "floor": "1F",
+      "label": "066",
+      "kind": "study",
+      "x": 28.0,
+      "z": 26.5,
+      "model": "StudySeat_1F_066"
+    },
+    {
+      "id": "3F_067",
+      "floor": "3F",
+      "label": "067",
+      "kind": "study",
+      "x": -56.0,
+      "z": -30.5,
+      "model": "StudySeat_3F_067"
+    },
+    {
+      "id": "3F_068",
+      "floor": "3F",
+      "label": "068",
+      "kind": "study",
+      "x": -36.0,
+      "z": -30.5,
+      "model": "StudySeat_3F_068"
+    },
+    {
+      "id": "3F_069",
+      "floor": "3F",
+      "label": "069",
+      "kind": "study",
+      "x": -16.0,
+      "z": -30.5,
+      "model": "StudySeat_3F_069"
+    },
+    {
+      "id": "3F_070",
+      "floor": "3F",
+      "label": "070",
+      "kind": "study",
+      "x": 16.0,
+      "z": -30.5,
+      "model": "StudySeat_3F_070"
+    },
+    {
+      "id": "4F_071",
+      "floor": "4F",
+      "label": "071",
+      "kind": "study",
+      "x": -56.0,
+      "z": -30.5,
+      "model": "StudySeat_4F_071"
+    },
+    {
+      "id": "4F_072",
+      "floor": "4F",
+      "label": "072",
+      "kind": "study",
+      "x": -36.0,
+      "z": -30.5,
+      "model": "StudySeat_4F_072"
+    },
+    {
+      "id": "4F_073",
+      "floor": "4F",
+      "label": "073",
+      "kind": "study",
+      "x": -16.0,
+      "z": -30.5,
+      "model": "StudySeat_4F_073"
+    },
+    {
+      "id": "4F_074",
+      "floor": "4F",
+      "label": "074",
+      "kind": "study",
+      "x": 16.0,
+      "z": -30.5,
+      "model": "StudySeat_4F_074"
+    },
+    {
+      "id": "5F_075",
+      "floor": "5F",
+      "label": "075",
+      "kind": "study",
+      "x": -56.0,
+      "z": -30.5,
+      "model": "StudySeat_5F_075"
+    },
+    {
+      "id": "5F_076",
+      "floor": "5F",
+      "label": "076",
+      "kind": "study",
+      "x": -36.0,
+      "z": -30.5,
+      "model": "StudySeat_5F_076"
+    },
+    {
+      "id": "5F_077",
+      "floor": "5F",
+      "label": "077",
+      "kind": "study",
+      "x": -16.0,
+      "z": -30.5,
+      "model": "StudySeat_5F_077"
+    },
+    {
+      "id": "5F_078",
+      "floor": "5F",
+      "label": "078",
+      "kind": "study",
+      "x": 16.0,
+      "z": -30.5,
+      "model": "StudySeat_5F_078"
+    },
+    {
+      "id": "6F_079",
+      "floor": "6F",
+      "label": "079",
+      "kind": "study",
+      "x": -55.0,
+      "z": -34.5,
+      "model": "StudySeat_6F_079"
+    },
+    {
+      "id": "6F_080",
+      "floor": "6F",
+      "label": "080",
+      "kind": "study",
+      "x": -35.0,
+      "z": -34.5,
+      "model": "StudySeat_6F_080"
+    },
+    {
+      "id": "6F_081",
+      "floor": "6F",
+      "label": "081",
+      "kind": "study",
+      "x": -15.0,
+      "z": -34.5,
+      "model": "StudySeat_6F_081"
+    },
+    {
+      "id": "6F_082",
+      "floor": "6F",
+      "label": "082",
+      "kind": "study",
+      "x": 15.0,
+      "z": -34.5,
+      "model": "StudySeat_6F_082"
+    },
+    {
+      "id": "DEMO_LOBBY",
+      "floor": "1F",
+      "label": "D",
+      "kind": "demo",
+      "x": 15.0,
+      "z": -14.0,
+      "model": "StudySeat_DEMO_LOBBY"
+    }
+  ]
+}
